@@ -41,5 +41,5 @@ matriz_aumentada = array([
     [3+3j,-1-1j,-1-1j],
      [-1-1j,3+3j,-1-1j],
      [-1-1j,-1-1j,3+3j]])
-vetor = array([1,1,1,])
+vetor = array([1,1,1])
 Gauss_Seidel(matriz_aumentada, vetor)
