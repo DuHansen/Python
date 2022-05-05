@@ -2,7 +2,7 @@
 #o qual a corrente Id no diodo se anula. Considere o seguinte modelo
 #matem·tico:
 #Id = sin(β − φ) + sin(φ)e**(−β/tan(φ))
-#tan(φ) = 2πf.L/R Resposta: β = 212, 2284◦
+#tan(φ) = 2πf.L/R  
 
 
 
